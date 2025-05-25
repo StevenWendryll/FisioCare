@@ -71,8 +71,8 @@ git clone https://github.com/seu-usuario/fisiocare-landing.git
 | Categoria      | Score |
 | -------------- | ----- |
 | Performance    | 98    |
-| Acessibilidade | 100   |
-| SEO            | 100   |
+| Acessibilidade | 86   |
+| SEO            | 91   |
 | Boas Práticas  | 100   |
 
 
