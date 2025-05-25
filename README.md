@@ -70,9 +70,9 @@ git clone https://github.com/seu-usuario/fisiocare-landing.git
 
 | Categoria      | Score |
 | -------------- | ----- |
-| Performance    | 98    |
+| Performance    | 96    |
 | Acessibilidade | 86   |
-| SEO            | 91   |
+| SEO            | 100   |
 | Boas Práticas  | 100   |
 
 
@@ -82,6 +82,7 @@ git clone https://github.com/seu-usuario/fisiocare-landing.git
 * [ ] Blog integrado com CMS (Netlify CMS)
 * [ ] Versão dark mode
 * [ ] Internacionalização (i18n)
+* [ ] Melhoria na acessibilidade 
 
 
 ## 📄 Licença
