@@ -57,18 +57,7 @@ git clone https://github.com/seu-usuario/fisiocare-landing.git
 <img src="assets/fisioterapeuta.jpg" alt="Dra. Nome">
 ```
 
-3. **Dados da Clínica**
-
-* Atualize em `js/main.js`:
-
-```javascript
-const config = {
-  whatsapp: "5511999999999",
-  endereco: "Rua Exemplo, 123 - São Paulo/SP"
-};
-```
-
-4. **Hospedagem**
+3. **Hospedagem**
 
 * [Netlify](https://www.netlify.com/): Arraste a pasta `public` para deploy automático
 * Customize o domínio no painel
@@ -100,6 +89,6 @@ const config = {
 Este projeto está sob licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 
-## Autores
+## Autor
 
 - [@StevenWendryll](https://github.com/StevenWendryll)
